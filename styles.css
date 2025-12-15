@@ -133,6 +133,7 @@ body {
   margin: 20px auto 10px auto;
   display: block;
   cursor: pointer;
+  flex-wrap: wrap;
 }
 .new-arrivals button:hover { background: #333; }
 
